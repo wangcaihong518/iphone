@@ -1,0 +1,83 @@
+body{
+	background: #000;
+}
+.beimian{
+	width:258px;
+	height:546px;
+	background: #f4f4f4;
+	border-radius: 30px;
+	border:1px solid #d4d3d2;
+	margin:0 auto;
+	position:relative;
+	box-shadow:0 0 5px 5px #fff;
+}
+.shang{
+	width:37px;
+	height: 2px;
+	background: #d1cdcd;
+	border-radius: 30%;
+	position:absolute;
+	left:45px;
+	top:-2px;
+}
+.you1{
+	width:10px;
+	height:16px;
+	background: #d1cdcd;
+	border-radius:30%;
+	float:right;
+	position:absolute;
+	right:-2px;
+	top:125px;
+	/*margin-bottom:29px;*/
+}
+.you2{
+	width:10px;
+	height:16px;
+	background: #d1cdcd;
+	border-radius:30%;
+	float:right;
+	position:absolute;
+	right:-2px;
+	top:173px;
+}
+.head{
+	width:70px;
+	height: 28px;
+	background: #f4f4f4;
+	position:absolute;
+	top:15px;
+	left:24px;
+}
+.circle1{
+	width:22px;
+	height: 22px;
+	background: #000;
+	border-radius: 50%;
+	border:3px solid #e4e4e4;
+	margin-right:8px;
+	float:left;
+}
+.xiaodian{
+	width:5px;
+	height:3px;
+	background: #000;
+	margin-top:14px;
+	float: left;
+	margin-right:8px;
+}
+.circle2{
+	width:16px;
+	height: 16px;
+	background: #706b68;
+	margin-top:6px;
+	border-radius:50%;
+	
+	float:left;
+}
+.main{
+	width: 100%;
+	height: 448px;
+	position:absolute;
+	top:48px;
+}
